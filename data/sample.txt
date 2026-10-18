@@ -1,0 +1,1 @@
+Arshita is a third-year student building a RAG project. She is learning LangChain and Streamlit. Her favorite color is blue.
