@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # Document Q&A Bot (RAG)
 
 A Retrieval-Augmented Generation (RAG) application that allows users to ask natural language questions about custom documents. The system retrieves relevant context from the provided text and uses a Large Language Model to generate accurate, grounded answers.
